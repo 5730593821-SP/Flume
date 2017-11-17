@@ -18,6 +18,6 @@ For exhibition in "Chula Expo 2017" from 15 to 19 march 2017
 
 ## Developer
 
-- Design : Sitthichai Saejia
+- Design : [Sitthichai Saejia](https://github.com/tueytoma)
 
-- Android : Supakrit Paoliwat
+- Android : [Supakrit Paoliwat](https://github.com/stepboom)
